@@ -1,3 +1,4 @@
+'''python files'''
 x=[]
 for i in range(1,11):
     x.append(i**2)
@@ -18,3 +19,4 @@ for i in name:
 print(na)
 na2=[i[0] for i in name]
 print(na2)
+'''111isnan'''
